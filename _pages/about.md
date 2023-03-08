@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "About Me"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,7 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+Hello and welcome to my website! My name is Virginia G. Rodriguez and I am a fourth year PhD student at the University of Notre Dame. As a scientist, I have been fortunate enough to participate in a wide range of research projects, from aqueous geochemistry to mass spectrometry and uranium geochemistry. Through my experiences, I have developed a deep passion for science and a desire to share my knowledge and insights with others.
+
+One of the reasons I created this website is to introduce myself and provide information about how to get in touch with me. Whether you are a fellow scientist, a potential collaborator, or simply someone with a keen interest in the natural world, I would love to hear from you.
+
+In addition to my research, I am also deeply committed to mentoring and teaching the next generation of scientists. I believe that education and outreach are essential for fostering a deeper appreciation and understanding of the natural world, and I strive to incorporate these values into all of my work.
+
+Thank you for taking the time to visit my website, and please feel free to reach out if you have any questions or would like to learn more about my research and interests.
 
 A data-driven personal website
 ======
