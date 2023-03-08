@@ -51,8 +51,8 @@ Service and leadership
 ======
 Graduate Student Newsletter Editor – Department of Civil and Environmental Engineering and Earth Sciences, University of Notre Dame 2019 – Present
 
-BioRender Ambassador – BioRender.com 2022 – Present
+BioRender Ambassador – BioRender.com (2022 – Present)
 
-Search Committee – Vice President for Research, University of Notre Dame 2022
+Search Committee – Vice President for Research, University of Notre Dame (2022)
 
-Task Force – Diversity Equity and Inclusion Task Force, University of Notre Dame – College of Engineering 2022
+Task Force – Diversity Equity and Inclusion Task Force, University of Notre Dame – College of Engineering (2022)
