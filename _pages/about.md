@@ -12,14 +12,14 @@ Hello and welcome to my website! My name is Virginia G. Rodriguez and I am a fou
 
 One of the reasons I created this website is to introduce myself and provide information about how to get in touch with me. Whether you are a fellow scientist, a potential collaborator, or simply someone with a keen interest in the natural world, I would love to hear from you.
 
-In addition to my research, I am also deeply committed to mentoring and teaching the next generation of scientists. I believe that education and outreach are essential for fostering a deeper appreciation and understanding of the natural world.
+In addition to my research, I am also deeply committed to mentoring and teaching the next generation of scientists. I believe that education and outreach are essential for fostering an appreciation and understanding of the natural world.
 
 Ph.D. Projects
 ======
 
 As a doctoral student, I have had the opportunity to work on three research projects related to the field of chemistry and radiochemistry. 
 
-My first project involvs studying the ionization of uranyl peroxide aqueous solutions using Electrospray ionization mass spectrometry. The aim of this project is to gain a better understanding of the behavior of uranyl peroxide ions in and the factors that affect their ionization. The results of this project could potentially lead to the development of new analytical techniques for detecting uranium compounds.
+My first project involves studying the ionization of uranyl peroxide aqueous solutions using Electrospray ionization mass spectrometry. The aim of this project is to gain a better understanding of the behavior of uranyl peroxide ions in and the factors that affect their ionization. The results of this project could potentially lead to the development of new analytical techniques for detecting uranium compounds.
 
 My second project focuses on characterizing uranyl peroxide nanoclusters in the gas phase using tandem mass spectrometry with collision-induced dissociation. The goal of this project is to obtain detailed information about the structure and composition of these nanoclusters, which could potentially lead to the development of new materials for nuclear waste management and uranium extraction.
 
