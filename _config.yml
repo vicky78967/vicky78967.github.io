@@ -80,15 +80,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
+  name             : "Virginia G. Rodriguez"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  bio              : "Virginia is a doctoral student at the University of Notre Dame"
+  location         : "Notre Dame, IN"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  googlescholar    : "https://scholar.google.com/citations?hl=en&user=gewZzB4AAAAJ&view_op=list_works&citft=1&citft=2&citft=3&email_for_op=vrodrig6%40nd.edu&gmla=AJsN-F42ZnZFNpzPof_FIIwKcsA4PPBZbPbf5OMcaf8bVs9xjUviYzbjZ_5mkwaHN-mfcVTPrg-61-DjeU_qGNRk7VLxtLFBS2dr7BIjLu_OcAHVynE5nsZ8oCTiERWnUfCiTl1ddk-a0ZvPmyHZVGnp_IpTEtl76Ha5Ci1GKX2BMgDcTlTauTV-u7LUjutkq-HhP3cc8WzpQrwitKAt3NsPX9Axb80Bt-Pf9F8bMOd9X2uG1IpCv6U"
   email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     : "https://www.researchgate.net/profile/Virginia-Rodriguez-10"
   uri              :
   bitbucket        :
   codepen          :
@@ -96,20 +96,20 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "vicky78967"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0000-0002-8728-4004"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : #"replacethistwitterhandle"
   vine             :
   weibo            :
   xing             :
