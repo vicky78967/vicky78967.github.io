@@ -11,8 +11,8 @@ redirect_from:
 
 Education
 ======
-* B.S. Department of Geological Sciences California State University, Bakersfield 2018
-* Ph.D. Department of Civil and Environmental Engineering and Earth Sciences, University of Notre Dame 2023 (expected)
+* B.S. Department of Geological Sciences, California State University, Bakersfield (2018)
+* Ph.D. Department of Civil and Environmental Engineering and Earth Sciences, University of Notre Dame (expected 2023)
   
 Skills
 ======
@@ -21,7 +21,7 @@ Skills
   * Geochemistry
   * Aqueous Chemistry
   * Mineralogy
-* Radiochemist
+* Radiochemistry
   * Gamma Spectroscopy
 
 Publications
