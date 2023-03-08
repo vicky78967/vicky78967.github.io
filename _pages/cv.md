@@ -11,49 +11,48 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-
-Work experience
-======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* B.S. Department of Geological Sciences California State University, Bakersfield 2018
+* Ph.D. Department of Civil and Environmental Engineering and Earth Sciences, University of Notre Dame 2023 (expected)
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Mass Spectrometry
+* Uranium Geochemistry
+  * Geochemistry
+  * Aqueous Chemistry
+  * Mineralogy
+* Radiochemist
+  * Gamma Spectroscopy
 
 Publications
 ======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+Rodriguez, V. G., Culbertson, H. J., Sigmon, G. E., Burns, P. C. Electrochemistry of Uranyl Peroxide Solutions during Electrospray Ionization. Inorg. Chem. 2023.
+
+Meza, I., Gonzalez-Estrella, J., Burns, P. C., Rodriguez, V., Velasco, C. A., Sigmon, G.E., Szymanowski, J. E. S., Forbes, T. Z., Applegate, L. M., Ali, A.-M. S., Lichtner, P., Cerrato, J. M. Solubility and Thermodynamic investigation of Meta-Autunite Group Uranyl Arsenate Solids with Monovalent Cations Na and K. Environ. Sci. Technol. 2022, 57, 255–265.
+
+Kohlgruber, T. A., Senchyk, G. A., Rodriguez, V. G., Mackley, S. A., Dal Bo, F., Aksenov, S. M., Szymanowski, J. E. S.,     Sigmon, G. E., Oliver, A. G., Burns, P. C. Ionothermal Synthesis of Uranyl Vanadate Nanoshell Heteropolyoxometalates. Inorg. Chem. 2021, 60, 3355–3364.
   
-Talks
+Presentations
 ======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+Rodriguez, V. G., Culbertson, H.J., Burns, P.C. Electrospray ionization mass spectrometry with collision
+induced dissociation of aqueous uranyl peroxide solutions. American Chemical Society. Fall 2022.
+
+Rodriguez, V. G., Burns, P.C. Direct 226Ra Measurements by Gamma Spectroscopy of Mineral Deposits in the Jackpile Mine. International Mineralogical Association. 2022.
+
+Rodriguez, V. G., Mujumdar, A. Meza, I., Cano, C., Wanpeng, T., Aprahamian, A., Cerrato, J, M., Burns, P.C. Direct 226Ra Measurements by Gamma Spectroscopy of Mineral Deposits in the Jackpile Mine and Surrounding Areas. ND Energy Research Symposium. 2022.
+
+Rodriguez, V., Burns, P.C. Uranyl Peroxide Nanocluster Speciation and Their Transformation. National Nuclear Security Administration Stewardship Science Academic Programs (SSAP) Symposium. 2021.
+
+Rodriguez, V., Burns, P.C. Uranyl Peroxide Nanoclusters Under Dilute Aqueous Conditions. National Nuclear Security Administration Stewardship Science Academic Programs (SSAP) Symposium. 2020.
+
+Rodriguez, V., O’Sullivan, K., Harvin, S., Pratt, B. Vesicle Size Analysis of Basalts used to Determine the Paleopressure of Cima Volcanic Field: A Martian Approach. Geological Society of America. Annual Meeting, Abstracts with Programs. Vol. 50, No. 6. 2018.
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+Graduate Student Newsletter Editor – Department of Civil and Environmental Engineering and Earth Sciences, University of Notre Dame 2019 – Present
+
+BioRender Ambassador – BioRender.com 2022 – Present
+
+Search Committee – Vice President for Research, University of Notre Dame 2022
+
+Task Force – Diversity Equity and Inclusion Task Force, University of Notre Dame – College of Engineering 2022
