@@ -11,8 +11,8 @@ redirect_from:
 
 Education
 ======
-* B.S. Department of Geological Sciences, California State University, Bakersfield (2018)
 * Ph.D. Department of Civil and Environmental Engineering and Earth Sciences, University of Notre Dame (expected 2023)
+* B.S. Department of Geological Sciences, California State University, Bakersfield (2018)
   
 Skills
 ======
@@ -49,9 +49,9 @@ Rodriguez, V., O’Sullivan, K., Harvin, S., Pratt, B. Vesicle Size Analysis of 
   
 Service and leadership
 ======
-Graduate Student Newsletter Editor – Department of Civil and Environmental Engineering and Earth Sciences, University of Notre Dame 2019 – Present
-
 BioRender Ambassador – BioRender.com (2022 – Present)
+
+Graduate Student Newsletter Editor – Department of Civil and Environmental Engineering and Earth Sciences, University of Notre Dame (2019 – Present)
 
 Search Committee – Vice President for Research, University of Notre Dame (2022)
 
