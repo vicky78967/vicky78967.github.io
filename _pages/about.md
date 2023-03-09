@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hello and welcome to my website! My name is Virginia G. Rodriguez and I am a fourth year PhD student at the University of Notre Dame. As a scientist, I have been fortunate enough to participate in a wide range of research projects, from aqueous geochemistry to mass spectrometry and uranium geochemistry. Through my experiences, I have developed a deep passion for science and a desire to share my knowledge and insights with others.
+Hello and welcome to my website! My name is Virginia G. Rodriguez and I am a fourth year PhD Candidate at the University of Notre Dame. As a scientist, I have been fortunate enough to participate in a wide range of research projects, from aqueous geochemistry to mass spectrometry and uranium geochemistry. Through my experiences, I have developed a deep passion for science and a desire to share my knowledge and insights with others.
 
 One of the reasons I created this website is to introduce myself and provide information about how to get in touch with me. Whether you are a fellow scientist, a potential collaborator, or simply someone with a keen interest in the natural world, I would love to hear from you.
 
