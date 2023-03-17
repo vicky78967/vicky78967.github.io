@@ -19,9 +19,9 @@ Ph.D. Projects
 
 As a doctoral student, I have had the opportunity to work on three research projects related to the field of chemistry and radiochemistry. 
 
-My first project involves studying the ionization of uranyl peroxide aqueous solutions using Electrospray ionization mass spectrometry. The aim of this project is to gain a better understanding of the behavior of uranyl peroxide ions in and the factors that affect their ionization. The results of this project could potentially lead to the development of new analytical techniques for detecting uranium compounds.
+My first project involves studying the ionization of uranyl peroxide aqueous solutions using Electrospray ionization mass spectrometry. The aim of this project is to gain a better understanding of the factors that affect the ionization of uranyl peroxide ions. The results of this project could potentially lead to the development of new analytical techniques for detecting uranium compounds.
 
-My second project focuses on characterizing uranyl peroxide nanoclusters in the gas phase using tandem mass spectrometry with collision-induced dissociation. The goal of this project is to obtain detailed information about the structure and composition of these nanoclusters, which could potentially lead to the development of new materials for nuclear waste management and uranium extraction.
+My second project focuses on characterizing uranyl peroxide nanoclusters in the gas phase using tandem mass spectrometry with collision-induced dissociation. The goal of this project is to obtain detailed information about the structure and composition of these nanoclusters, which could potentially lead to the characterization of nuclear waste and assist with uranium extraction.
 
 Finally, my third project involves studying the mobility of uranium and radium from a uranium mine in New Mexico using a gamma spectrometer. The aim of this project is to better understand the environmental impact of uranium mining. The results of this project could have important implications for the understanding of environmental mining at a specific site.
 
